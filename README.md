@@ -14,7 +14,7 @@
             (        \/        )
              `.___..-'`-..___.`
                 \          /
- BY SPRINTRAY    `-.____.-'    ESPECIALLY FOR MXW CHAT USERS
+ BY SPRINTRAY    `-.____.-'    MADE WITH LOVE
 ```
 
 > Полная документация (установка, настройка, безопасность, FAQ) — в [GitBook](https://app.gitbook.com/o/yXhq7m5EOvoMxxxeQpNY/s/s6myxwtZldZWT8Mn9QQz/).
@@ -144,7 +144,7 @@ python main.py
 
 ## Поддержка
 
-Вопросы и баги — пиши **sprintray** в приватный чат **MXW**.
+Вопросы и баги — пиши мне в Telegram [@0xSprintray](https://t.me/0xSprintray).
 
 ---
 
