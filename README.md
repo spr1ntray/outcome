@@ -53,7 +53,7 @@
 ### macOS / Linux
 
 ```bash
-git clone https://github.com/fallex/outcome-MXW.git
+git clone https://github.com/spr1ntray/outcome-MXW.git
 cd outcome-MXW
 python3 -m venv env
 source env/bin/activate
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ### Windows (PowerShell)
 
 ```powershell
-git clone https://github.com/fallex/outcome-MXW.git
+git clone https://github.com/spr1ntray/outcome-MXW.git
 cd outcome-MXW
 python -m venv env
 env\Scripts\activate
